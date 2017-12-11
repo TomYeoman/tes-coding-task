@@ -9,16 +9,16 @@ it allows for a dynamic amount of courts using createNewGame() found in the \rea
 
 Installation:
 
-`
+
 1 ) cd react_client > run "yarn / npm install"
 
 2)  cd server > run "yarn / npm install"
-`
+
 
 Run Game
 
-`
+
 1 ) cd into both the react_client and server and type "yarn start" or "npm run start" on both the client and server code
 
 2 ) Open browser > localhost:3000 ( Should open automatically )
-`
+
