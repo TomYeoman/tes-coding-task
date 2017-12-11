@@ -18,10 +18,10 @@ class GameContainer extends Component {
 
     // If arenaID is defined we have persisted state so don't reload
     if (!arenaID) {
-    // By default only use 1 court (as per spec), however feel free to add more!
-    createNewGame({
-      courts: 1,
-    });
+      // By default only use 1 court (as per spec), however feel free to add more!
+      createNewGame({
+        courts: 1,
+      });
     }
   }
 
