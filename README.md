@@ -12,7 +12,7 @@ Installation:
 
 1 ) cd react_client > run "yarn / npm install"
 
-2)  cd server > run "yarn / npm install"
+2 ) cd server > run "yarn / npm install"
 
 
 Run Game
